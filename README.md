@@ -1,2 +1,2 @@
 # xivprofiles
-A Next.JS Project used to display FFXIV Character Profiles
+A Next.JS / Tailwind Project used to display FFXIV Character Profiles
