@@ -1,9 +1,9 @@
-import React from "react";
+import Header from "./Header";
 
 const Layout = () => {
   return (
     <div className="bg-gradient-to-r from-gray-600 to-black  min-h-screen">
-      <h1>Test Layout</h1>
+      <Header />
     </div>
   );
 };
